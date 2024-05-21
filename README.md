@@ -5,6 +5,8 @@ This is a repository created by Atanas Yourdanov.
 
 It contains different IBM usable, public codes and commands for AIX, VIOS, Linux and IBM i operating systems.
 
+In command directory you will find:
+
 ## 1. Large files search
 
 Search a text string within large text file with showing the lines before and lines after the match:
@@ -19,6 +21,8 @@ s="text" -> search string
 
 The command is tested only on IBM AIX OS version 6.1 and above.
 
-# For any questions and discussions, please use the IBM TechXchange Power I/O User Group:
+More to come in the next few months.
 
-# https://ibm.biz/BdmbEG
+## For any questions and discussions, please use the IBM TechXchange Power I/O User Group:
+
+## https://ibm.biz/BdmbEG
